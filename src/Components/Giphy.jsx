@@ -5,7 +5,7 @@ export default function Giphy({giphyURL}){
         <>
         <div>
             <video src={giphyURL.video_url} alt="Gif" height={`${giphyURL.height}`} autoPlay />
-            <img src={giphyURL.image_url} alt="Gif" height={giphyURL.height}/>
+            {/* <img src={giphyURL.image_url} alt="Gif" height={giphyURL.height}/> */}
         </div>
         </>
     )

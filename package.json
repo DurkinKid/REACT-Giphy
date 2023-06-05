@@ -1,6 +1,6 @@
 {
-  "name": "react-giphy",
   "homepage": "https://durkinkid.github.io/ReactGiphy/",
+  "name": "react-giphy",
   "private": true,
   "version": "0.0.0",
   "type": "module",
